@@ -1,7 +1,7 @@
 # Twitter-Sentimental-Analysis
 Twitter Sentiment Analysis
 
-Introduction
+Introduction:
 The Twitter Sentiment Analysis project aims to analyze sentiments expressed in tweets using natural language processing techniques. This application classifies tweets into positive, negative, or neutral sentiments based on a logistic regression model trained on a dataset of labeled tweets.
 
 Features
